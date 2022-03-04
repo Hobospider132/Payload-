@@ -1,0 +1,12 @@
+Payload version: V3 (More versions will be made)
+By: Christian Duong
+
+
+
+This is a program intended to create madness and havoc on your friend's computer
+Please note that I do not take any responsiblity or liability for the consequences of this program
+Program contains flashing colours
+USE AT OWN RISK
+I have includede a uninstallation command but if you wish to permanently keep this on your friend's PC you can delete it as it will not change the course of the program
+I would also like to mention that in this version i have not yet made a way to bypass UAC so your friend needs to have admin on their pc
+Program will work on Windows, Testing is still required for MacOS and Unix 
